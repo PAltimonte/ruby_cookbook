@@ -1,4 +1,4 @@
-# Recipe 2.12
+# Recipe 2.12 Testing Whether an Object is String-Like
 
 puts "A string".responds_to? :to_str
 puts "A string".responds_to? :to_s
